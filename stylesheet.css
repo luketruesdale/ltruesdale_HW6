@@ -13,9 +13,15 @@ header {
     border-radius: 8px;
 }
 
-h1, h2, h3 {
-    color: #333;
+h1 {
+    color: white;
 }
+
+h2, h3 {
+    color: #717070;
+}
+
+
 
 a {
     color: #0073e6;
